@@ -1,0 +1,4 @@
+{
+  "host": "chat-mongo-app.feathersjs.com",
+  "port": "PORT"
+}
